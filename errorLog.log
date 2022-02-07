@@ -1,0 +1,9 @@
+
+[06/02/2022 19:51:32.000000] Script call failed:
+	No command received with script call.
+[06/02/2022 19:51:40.000000] Script call failed:
+	No command received with script call.
+[06/02/2022 19:58:21.000000] Error writing a log:
+	Failed to open destination file.
+[06/02/2022 19:58:21.000000] Error in the monitor service:
+	An error occurred writing a log for the dbus-org.freedesktop.Avahi.service service.

@@ -1,0 +1,6 @@
+{
+  "dbus-org.freedesktop.Avahi.service": {
+    "type": "systemd",
+    "email": "prueba@gmail.com"
+  }
+}

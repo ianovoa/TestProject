@@ -1,0 +1,10 @@
+[Unit]
+Description=Gestor de servicios
+
+[Service]
+PIDFile=/var/run/serviceManager.pid
+ExecStart=/usr/bin/php /home/TestProject/main.php
+Type=simple
+User=root
+KillMode=process
+Restart=on-failure
